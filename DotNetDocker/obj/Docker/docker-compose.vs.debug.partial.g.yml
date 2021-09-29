@@ -1,0 +1,48 @@
+version: '3.4'
+
+services:
+  dockersecoundtry:
+    image: dockersecoundtry:dev
+    container_name: DockerSecoundTry
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "DockerSecoundTry"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - NUGET_PACKAGES=C:\.nuget\packages
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_dockersecoundtry$
+    volumes:
+      - C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DockerSecoundTry:C:\app
+      - C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker:C:\src
+      - C:\Users\kanstantsin.karatkev\onecoremsvsmon:C:\remote_debugger:ro
+#$nuget_volume_mapping_dockersecoundtry$
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646 
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_dockersecoundtry$ \"C:\\app\\bin\\Debug\\net5.0\\DockerSecoundTry.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+      com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
+
+  dotnetdocker:
+    image: dotnetdocker:dev
+    container_name: DotNetDocker
+    build:
+      args:
+        source: obj/Docker/empty/
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "DotNetDocker"
+    volumes:
+      - C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker:C:\app
+      - :C:\remote_debugger:ro
+    entrypoint: cmd /c "set DISABLE_PERFORMANCE_DEBUGGER=1 & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "C:\\app\\bin\\Debug\\DotNetDocker.exe"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
+

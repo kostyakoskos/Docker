@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockertry:
+    image: ${DOCKER_REGISTRY-}dockertry
+    build:
+      context: .\DockerTry
+      dockerfile: Dockerfile

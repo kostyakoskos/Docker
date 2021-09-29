@@ -1,0 +1,6 @@
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\bin\Debug\DockerSecoundTry.dll
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\bin\Debug\DotNetDocker.exe
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\bin\Debug\DotNetDocker.pdb
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\bin\Debug\DotNetDocker.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  dotnetdocker:
+    image: ${DOCKER_REGISTRY-}dotnetdocker
+    build:
+      context: .\DotNetDocker
+      dockerfile: Dockerfile
+
+  dockersecoundtry:
+    image: ${DOCKER_REGISTRY-}dockersecoundtry
+    build:
+      context: .
+      dockerfile: DockerSecoundTry\Dockerfile
+

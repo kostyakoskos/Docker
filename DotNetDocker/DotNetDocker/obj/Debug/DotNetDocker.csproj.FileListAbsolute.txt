@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\bin\Debug\DotNetDocker.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\bin\Debug\DotNetDocker.exe
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\bin\Debug\DotNetDocker.pdb
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\obj\Debug\DotNetDocker.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\obj\Debug\DotNetDocker.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\obj\Debug\DotNetDocker.exe
+C:\Users\kanstantsin.karatkev\source\repos\DotNetDocker\DotNetDocker\obj\Debug\DotNetDocker.pdb

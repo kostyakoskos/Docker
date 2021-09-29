@@ -1,0 +1,21 @@
+В 1 контейнер докер можем бд загрузить в другой приложение linux и тл
+docker pull ubuntu - запуск и установка ubuntu
+run -it ubuntu - запуск терминала ubuntu итерактивно
+docker ps - проверить все запущенные контейнеры
+docker ps -a - проверить все контейнеры, которые создали.
+docker rm <name container> || id - удалить контейнер docker
+docker rm $(docker ps -aq) - удалить все контейнеры docker
+docker rmi - удалить image которые у нас есть
+docker run - создать какой-то совершенно новый контейнер
+docker run -it alpine - скачать новый легкий образ. 
+apk add bash - установить bash
+docker start <name container> - запустить контейнер из docker ps -a
+docker stop <name container> - остановить контенйер
+docker run -d --name pg postgres - запуск контейнера в фоновом 
+режиме, консоль не нужна. Даём имя- pg. 
+Docker Hub - место где можно размещать свои image
+docker exec -it pg bash- команда выполняющая скрипт внутри 
+запущенного контейнера. в интерактивном режиме в контейнере pg
+выполяем команду bash
+docker attach <name container> -  подключиться к процессу docker
+ctrl+p и ctrl+q - выйти из процесса без его завершения
