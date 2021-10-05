@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLvT1wgGjxqTQ951k6o9vj5wAYWAxY07yh/QfCrk7oFexGCgDkl0aMkLBQhyzsUxwDA3+PNw3sn/DbkzA9mH7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Docker\\DockerfileBuildFromCMD\\DockerfileBuildFromCMD\\DockerfileBuildFromCMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

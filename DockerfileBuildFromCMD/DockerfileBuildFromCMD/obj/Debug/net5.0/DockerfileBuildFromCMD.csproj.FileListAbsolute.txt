@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.exe
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\ref\DockerfileBuildFromCMD.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\bin\Debug\net5.0\DockerfileBuildFromCMD.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\ref\DockerfileBuildFromCMD.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Docker\DockerfileBuildFromCMD\DockerfileBuildFromCMD\obj\Debug\net5.0\DockerfileBuildFromCMD.genruntimeconfig.cache

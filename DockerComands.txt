@@ -13,7 +13,7 @@ docker rm <name container> || id - удалить контейнер docker
 docker rm $(docker ps -aq) - удалить все контейнеры docker
 docker rmi - удалить image которые у нас есть
 docker run - создать какой-то совершенно новый контейнер
-docker run -it alpine - скачать новый легкий образ. 
+docker run -it alpine - скачать новый легкий образ(5 мб). 
 apk add bash - установить bash
 docker start <name container> - запустить контейнер из docker ps -a
 docker stop <name container> - остановить контенйер

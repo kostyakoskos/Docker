@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.exe
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\ref\NetCore.Docker.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\bin\Debug\net5.0\NetCore.Docker.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\ref\NetCore.Docker.dll
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Docker\App\App\obj\Debug\net5.0\NetCore.Docker.genruntimeconfig.cache

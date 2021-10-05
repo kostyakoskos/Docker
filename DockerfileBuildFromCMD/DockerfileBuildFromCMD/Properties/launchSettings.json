@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DockerfileBuildFromCMD": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
