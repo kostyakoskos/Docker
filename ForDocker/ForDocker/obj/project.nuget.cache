@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Y/W8OajDcKtVYeUuawHCeqPeo5Mpjqu5UQrlQ2UG6QOV3KO/+Ua3BRVlqXdzeIQKZDOzDtewbB5sWVxg7wLtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Docker\\ForDocker\\ForDocker\\ForDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
